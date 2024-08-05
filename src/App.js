@@ -87,8 +87,12 @@ function App() {
               <div className="div-2_right__bottom">
                 <h4>
                   Our interior design service focuses on optimizing your space
-                  whileincorporating sustainable practices, creating a
-                  harmonious and eco-friendly environment.
+                  whilei
+                  <br />
+                  ncorporating sustainable practices, creating a harmonious and
+                  eco-
+                  <br />
+                  friendly environment.
                 </h4>
                 <button>Show Examples</button>
               </div>
