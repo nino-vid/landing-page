@@ -818,6 +818,7 @@ margin-right: 2rem;
 
 .div-4 img {
   width: 33.3333%;
+  object-fit: cover;
 }
 
 .div-4 .img-1, 
